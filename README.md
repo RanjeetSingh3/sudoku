@@ -1,1 +1,1 @@
-SUdoku Solver Using Back-Tracking Algorithm
+Sudoku Solver Using Back-Tracking Algorithm
